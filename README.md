@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Okonjo Gilbert
-- 👀 I’m interested development.
+- 👀 I’m interested in development.
 - 🌱 I’m currently learning at Microverse.
 - 💞️ I’m looking forward to working together with great teams on projects.
 - 📫 How to reach me @okonjogilbert2@gmail.com 0r linked in at https://www.linkedin.com/in/gilbert-okonjo-2081331b9/
