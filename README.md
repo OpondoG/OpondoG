@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Okonjo Gilbert
-- 👀 I’m interested in Building Projects in web development
-- 🌱 I’m currently learning Javascript,Html,Css,React, and C#
-- 💞️ I’m looking to collaborate on attachments and realtime work project exeperience
+- 👀 I’m interested development.
+- 🌱 I’m currently learning at Microverse.
+- 💞️ I’m looking forward to working together with great teams on projects.
 - 📫 How to reach me @okonjogilbert2@gmail.com 0r linked in at https://www.linkedin.com/in/gilbert-okonjo-2081331b9/
 - 
 
