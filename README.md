@@ -2,7 +2,7 @@
 
 - 🔭 I’m a passionate full-stack web developer from Kenya 💻
 - 👓 Currently looking for new opportunities
-- 👯 I’m looking to collaborate on new projects on software developemnt.
+- 👯 I’m looking to collaborate on new projects on software developemnt
 - 👨‍💻 All of my projects are available @OpondoG
 - ⚡ Fun fact: I love to socialize and support others!
   <br>
