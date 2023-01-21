@@ -11,9 +11,9 @@
   <br>
 
 <div float="left" > 
-  <img width="345" src="https://github-readme-stats.vercel.app/api?username=OpondoG&show_icons=true&theme=tokyonight"/> &nbsp;
-  <img width="345" src="http://github-readme-streak-stats.herokuapp.com?user=OpondoG&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D"/> &nbsp;
-  <img width="290" src="https://github-readme-stats.vercel.app/api/top-langs?username=OpondoG&show_icons=true&locale=en&layout=compact&theme=tokyonight"/>    
+  <img width="400" src="https://github-readme-stats.vercel.app/api?username=OpondoG&show_icons=true&theme=tokyonight"/> &nbsp;
+  <img width="400" src="http://github-readme-streak-stats.herokuapp.com?user=OpondoG&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D"/> &nbsp;
+  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs?username=OpondoG&show_icons=true&locale=en&layout=compact&theme=tokyonight"/>    
 </div>
 <br>
 
