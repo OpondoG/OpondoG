@@ -3,7 +3,7 @@
 <img width="1000" height="300" align="right" src="https://camo.githubusercontent.com/dd7f618ec1acfac89af69724e512095fc93cff184c6a61f1f56bc02be2fb98e1/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f61352f33352f36302f61353335363063383038383930306532363638383066373739646163636564372e676966"/> &nbsp;
 
 - 🔭 I’m a passionate full-stack web developer from Kenya 💻
-- 👓 Currently looking for new opportunities
+- 👓 Currently learning RubyonRails
 - 👯 I’m looking to collaborate on new projects on software developement
 - 👨‍💻 All of my projects are available @OpondoG
 - ⚡ Fun fact: I love to socialize and support others!
@@ -12,7 +12,7 @@
 <div float="left" > 
   <img width="345" src="https://github-readme-stats.vercel.app/api?username=OpondoG&show_icons=true&theme=tokyonight"/> &nbsp;
   <img width="345" src="http://github-readme-streak-stats.herokuapp.com?user=OpondoG&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D"/> &nbsp;
-  <img width="500" src="https://github-readme-stats.vercel.app/api/top-langs?username=OpondoG&show_icons=true&locale=en&layout=compact&theme=tokyonight"/>    
+  <img width="1200" height="300" src="https://github-readme-stats.vercel.app/api/top-langs?username=OpondoG&show_icons=true&locale=en&layout=compact&theme=tokyonight"/>    
 </div>
 <br>
 
