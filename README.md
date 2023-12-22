@@ -2,7 +2,7 @@
 ## Hi there 👋 I am Gilbert
 
 - 🔭 I’m a passionate full-stack web developer from Kenya 💻
-- 👓 Currently working on personalprojects/freelance
+- 👓 Currently working on personal projects/freelance
 - 👯 I’m looking to collaborate on new projects on software developement
 - 👨‍💻 All of my projects are available @OpondoG
 - ⚡ Fun fact: I love to socialize and support others!
