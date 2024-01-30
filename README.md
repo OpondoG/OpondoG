@@ -1,17 +1,17 @@
-![Profle](https://camo.githubusercontent.com/2a0fa5f29d3658785cdb60ba03d07d73a97fb6c43d2e72915a5bf9c852e6f7ea/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d6b6170616465266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174)
+
 ## Hi there 👋 I am Gilbert
 
-- 🔭 I’m a passionate full-stack web developer from Kenya 💻
-- 👓 Currently working on personal projects/freelance
+- 🔭 I’m a passionate full-stack web developer💻
+- 👓 Currently working on personal projects
 - 👯 I’m looking to collaborate on new projects on software developement
 - 👨‍💻 All of my projects are available @OpondoG
 - ⚡ Fun fact: I love to socialize and support others!
   <br>
 
 <div float="right" > 
-  <img width="345" src="https://github-readme-stats.vercel.app/api?username=OpondoG&show_icons=true&theme=tokyonight"/> &nbsp;
+  <img width="300" src="https://github-readme-stats.vercel.app/api?username=OpondoG&show_icons=true&theme=tokyonight"/> &nbsp;
   <img width="345" src="http://github-readme-streak-stats.herokuapp.com?user=OpondoG&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D"/> &nbsp;
-  <img width="345" src="https://github-readme-stats.vercel.app/api/top-langs?username=OpondoG&show_icons=true&locale=en&layout=compact&theme=tokyonight"/> &nbsp;
+  <img width="300" src="https://github-readme-stats.vercel.app/api/top-langs?username=OpondoG&show_icons=true&locale=en&layout=compact&theme=tokyonight"/> &nbsp;
 </div>
 <br>
 
